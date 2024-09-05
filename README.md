@@ -32,6 +32,4 @@ Example command with parameters:
 
 ### Available Solving Algorithms
 - `hill_climbing`
-- `backtracking`
-- `backtracking_mrv`
 - `backtracking_lcv`
