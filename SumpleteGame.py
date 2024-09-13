@@ -7,7 +7,7 @@ import argparse
 WARNING_TITLE = "No Selection"
 WARNING_MESSAGE = "Please choose an option before clicking OK."
 DEFAULT_GRID_SIZE = 4
-DEFAULT_NUM_GAMES = 0
+DEFAULT_NUM_GAMES = 1
 TEXT_FONT = "Arial"
 BG_COLOR = '#FAECE8'
 TEXT_SIZE = 12
