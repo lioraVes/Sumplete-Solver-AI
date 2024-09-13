@@ -1,7 +1,7 @@
 # Sumplete Game
 
 ## Running the Code
-![image](https://github.com/user-attachments/assets/518e4ed4-152b-4bfb-91e4-c5f882e27caf)
+![image](https://github.com/user-attachments/assets/c29f9aec-740b-4c11-af9f-8bb9ff21b13a)
 
 ### Basic Command
 To run the game with default parameters (one 4x4 game):
