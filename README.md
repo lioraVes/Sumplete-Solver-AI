@@ -1,6 +1,7 @@
 # Sumplete Game
 
 ## Running the Code
+![image](https://github.com/user-attachments/assets/518e4ed4-152b-4bfb-91e4-c5f882e27caf)
 
 ### Basic Command
 To run the game with default parameters (one 4x4 game):
@@ -28,7 +29,7 @@ You can customize the game run using the following flags:
 - `--solver`: Choose a specific solving algorithm
 
 Example command with parameters:
-```python sumplete_game.py --grid-size 6 --num-games 2 --solver hill_climbing```
+```python SumpleteGame.py --grid-size 6 --num-games 2 --solver hill_climbing```
 
 ### Available Solving Algorithms
 - `hill_climbing`
